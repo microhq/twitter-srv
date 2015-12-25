@@ -1,6 +1,6 @@
 # Twitter Server 
 
-Twitter server is lets you tweet, it's as simple as that.
+Twitter server lets you tweet, it's as simple as that.
 
 ## Getting started
 
